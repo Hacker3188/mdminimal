@@ -1,4 +1,4 @@
 # MDMinimal
-A simple material design HTML theme with Google Fonts and Formspree.
+A simple material design HTML theme with Google Fonts and Formspree. Powers the quint5tech website.
 
-View the demo at https://qwow5.github.io/mdminimal.
+View a demo at https://quint5.tech.
